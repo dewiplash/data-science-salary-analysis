@@ -4,7 +4,7 @@ EXEC sp_rename 'salaries.remote_ratio', 'work_modality', 'COLUMN';
 
 
 ALTER TABLE dbo.salaries
-ALTER COLUMN remote_ratio VARCHAR(50);
+ALTER COLUMN work_modality VARCHAR(50);
 
 
 UPDATE dbo.salaries
@@ -29,4 +29,5 @@ SET experience_level = CASE experience_level
     WHEN 'SE' THEN 'Senior'
     WHEN 'EX' THEN 'Executive'
 END;
+
 
