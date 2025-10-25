@@ -31,4 +31,9 @@ Source: [Kaggle – Data Science Job Salaries 2023](https://www.kaggle.com/datas
 - The average salary for a Data Analyst is 92893.06 USD.
 - Yes, it has increased from year to year. 174.55% from 2020 to 2021, and 126.47% from 2021 to 2022.
 
+##  Visuals
+A dashboard with visuals was made using Power BI Desktop, where each one of them presents one or more insights in a clear way.
+
+![Visuals](visuals/visuals-salaries.png)
+
 
