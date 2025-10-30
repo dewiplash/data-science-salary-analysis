@@ -1,5 +1,4 @@
-# Data Science Salaries Analysis (SQL Server)
-
+# Data Science Salaries Analysis
 ## 🎯 Objective
 Analyze public data on data science salaries to uncover trends related to:
 - Experience level
