@@ -1,4 +1,4 @@
-# Data Science Salaries Analysis
+# Data Science Salaries Analysis (Data Analytics Project)
 ## 🎯 Objective
 Analyze public data on data science salaries to uncover trends related to:
 - Experience level
